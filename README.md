@@ -1,7 +1,7 @@
 <p align="center">Welcome to my profile!</p>
 
 <p align="center">
-  <a href="https://github.com/macio-matheus">
+  <a href="https://github.com/macio-matheus" target="_blank">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/macio-matheus" alt="GitHub badge" />
   </a>
   <a href="https://www.linkedin.com/in/macioarruda">
