@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-layout: cv
-title: Mácio Arruda's CV
----
 # Mácio Arruda
 Tech Lead & Machine Learning Engineer
 
