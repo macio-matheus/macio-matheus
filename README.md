@@ -9,12 +9,6 @@
   </a>
 </p>
 
-<div id="webaddress">
-<a href="macio.matheus.arruda@gmail.com">macio.matheus.arruda@gmail.com</a>
-| <a href="/">Linkedin</a>
-</div>
-
-
 ##### Resume
 
 Bachelor of Science in Computer Science, graduate studies in Software Engineering and Artificial Intelligence, certificate (verified) in Machine Learning by ColumbiaX.
