@@ -9,7 +9,7 @@
   </a>
 </p>
 
-##### Resume
+#### Resume
 
 <p>Bachelor of Science in Computer Science, graduate studies in Software Engineering and Artificial Intelligence, certificate (verified) in Machine Learning by ColumbiaX.
 
@@ -17,3 +17,7 @@ I have 10 years of experience working in technology. Currently I am Tech Lead - 
 
 I am moved to challenges where I have opportunities to acquire more knowledge and with that, to add value to projects that improve people's lives. 
 </p>
+
+<div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
+  <img width="400px" align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green" />
+</div>
