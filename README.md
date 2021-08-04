@@ -19,9 +19,9 @@ I am moved to challenges where I have opportunities to acquire more knowledge an
 </p>
 
 
-[![Mácio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green)]
+[![Mácio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green)
 
 
-[![Mácio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)]
+[![Mácio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)
 
-[![Mácio's github stats](https://github-readme-stats.vercel.app/api?username=macio-matheus&theme=blue-green)]
+[![Mácio's github stats](https://github-readme-stats.vercel.app/api?username=macio-matheus&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=macio-matheus&theme=blue-green)
