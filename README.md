@@ -19,5 +19,9 @@ I am moved to challenges where I have opportunities to acquire more knowledge an
 </p>
 
 <div style="display:flex; flex-direction: row; align-items: center; justify-content: space-around">
-  <img width="400px" align="left" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green" />
+  <img width="500px" align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green" />
 </div>
+
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
