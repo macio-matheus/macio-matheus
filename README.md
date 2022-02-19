@@ -13,7 +13,7 @@
 
 <p>Bachelor of Science in Computer Science, graduate studies in Software Engineering and Artificial Intelligence, certificate (verified) in Machine Learning by ColumbiaX.
 
-I have 10 years of experience working in technology. Currently I am Tech Lead - Senior Machine Learning Engineer at CESAR - Innovation Institute, I have worked on large projects in which I have gained solid experience in distributed application architecture, machine learning, big data, cloud environment, deep learning and agile methodologies.
+I have 11 years of experience working in technology. Currently I am Tech Lead - Machine Learning Consultant at CESAR - Innovation Institute, I have worked on large projects in which I have gained solid experience in distributed application architecture, machine learning, big data, cloud environment, deep learning and agile methodologies.
 
 I am moved to challenges where I have opportunities to acquire more knowledge and with that, to add value to projects that improve people's lives. 
 </p>
