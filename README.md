@@ -11,11 +11,9 @@
 
 #### Resume
 
-<p>Bachelor of Science in Computer Science, graduate studies in Software Engineering and Artificial Intelligence, certificate (verified) in Machine Learning by ColumbiaX.
+<p>I have over 11 years of experience in technology. Currently I work as Tech Data Science Manager at CESAR, in projects for international and national companys focused on Data Science. Throughout my career I worked on large projects for large clients, in which I gained solid experience in architecture of distributed applications in the cloud (AWS, Azure and GCP), machine learning, fraud detection, big data architecture, deep learning, technical leadership and managing agile Data Science teams.
 
-I have 11 years of experience working in technology. Currently I am Tech Lead - Machine Learning Consultant at CESAR - Innovation Institute, I have worked on large projects in which I have gained solid experience in distributed application architecture, machine learning, big data, cloud environment, deep learning and agile methodologies.
-
-I am moved to challenges where I have opportunities to acquire more knowledge and with that, to add value to projects that improve people's lives. 
+Bachelor in Computer Science, postgraduate in Software Engineering and postgraduate in Artificial Intelligence, certified (verified) in Machine Learning by ColumbiaX, Certified in SAFe 5 Scrum Master by Scaled Agile.
 </p>
 
 ----
