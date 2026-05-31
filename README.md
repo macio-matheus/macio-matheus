@@ -11,13 +11,9 @@
 
 #### Resume
 
-<p>I have over 15 years of experience in technology. Currently I work as Tech Data Science Manager at CESAR, in projects for international and national companys focused on Data Science. Throughout my career I worked on large projects for large clients, in which I gained solid experience in architecture of distributed applications in the cloud (AWS, Azure and GCP), machine learning, fraud detection, big data architecture, deep learning, technical leadership and managing agile Data Science teams.
-
-Bachelor in Computer Science, postgraduate in Software Engineering and postgraduate in Artificial Intelligence, certified (verified) in Machine Learning by ColumbiaX, Certified in SAFe 5 Scrum Master by Scaled Agile.
+<p>I’m a Senior Tech Data Science Manager at CESAR, working at the intersection of data, AI, and software engineering. I have 15+ years in technology and lead teams and projects end-to-end — from stakeholder discovery and architecture design to execution and delivery.
+ 
+My focus is to help teams solve complex problems and scale delivery: designing data/AI solution architectures, integrating with existing systems, governance, and technical decision-making. In recent years, I’ve also been working directly with Generative AI / LLMs (including practical applications and best practices across the software development lifecycle).
+ 
+At CESAR School, I coordinate the AI for Developers program, connecting practical AI usage with day-to-day software engineering work.
 </p>
-
-----
-[![Mácio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green)](https://github-readme-stats.vercel.app/api/top-langs/?username=macio-matheus&theme=blue-green)
-
-----
-[![Mácio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)](https://github-readme-streak-stats.herokuapp.com/?user=macio-matheus&theme=blue-green)
